@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+myenv/
+venv/
+
+# OAuth
+client_secret.json
+token.json
+token.pickle
+
+# Output
+output/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
